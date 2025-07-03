@@ -27,7 +27,7 @@ My first milestone was to build up a good amount of the base robot. I feel I ach
 # Schematics 
 Here are my schematics for the project. 
 ![Headstone Image](IMG_7085.jpeg)
-![Headstone Image](led breadboard.jpeg)
+![Headstone Image](IMG_7086.jpeg)
 ![Headstone Image](IMG_7087.jpg)
 # Code
 Here's my code for the project:
