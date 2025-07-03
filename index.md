@@ -25,8 +25,10 @@ My second milestone was build the project in it's entirety as well as coding it.
 My first milestone was to build up a good amount of the base robot. I feel I achieved this goal as I have built roughly 3/4s of it. It works with servos connected to it acting as it joints. It rotates to move the arm. Some of my surprises were definitely how fragile the parts were. My biggest challenge was definitely breaking parts. I broke the right finger twice! For my next milestone, I hope to achieve the goal of coding and completely building my baseline project.
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
-
+Here are my schematics for the project. 
+![Headstone Image](IMG_7085.jpeg)
+![Headstone Image](led breadboard.jpeg)
+![Headstone Image](IMG_7087.jpg)
 # Code
 Here's my code for the project:
 
