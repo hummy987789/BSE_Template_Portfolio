@@ -27,11 +27,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TKmikUfqGI?si=DmWbcdOfI9txb8os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+My second milestone was build the project in it's entirety as well as coding it. I have achieved this goal but not without some tribulations. My code does not really work at all, and it tends to go in random directions. This is definitely a challenge I am still working on solving. At this stage, the robot works via a controller (it doesn't work half the time because of the code). It is all wired in and the physical structure is built. In the future, I will work on fixing the code as well as adding a modification, which I plan to be Bluetooth.
 
 # First Milestone
 
@@ -255,9 +251,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+Here is the GitHub tutorial I used. It takes you step by step as well as providing all of the code and drivers.  
+- [Tutorial](https://github.com/Cokoino/CKK0006/tree/master)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
