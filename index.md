@@ -8,16 +8,8 @@ My BSE project was a 3 joint robotic arm. It has a claw and 3 joint to move in 3
 ![Headstone Image](bse project photo.jpg)
   
 # Final Milestone
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ope69Nm4aF4?si=EBcXRgTeXzLmC3Pd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+For my final milestone, I decided to change my modification. I was originally going to add Bluetooth to the robot, but due to some issues with the parts, I decided to change that. I ended up going with an LED modification. Whenever I move the left stick up, the yellow LED turns on. When I move the left stick to the right, the red LED turns on. And finally, whenever I move the right stick up, the blue LED turns on. I simply turn them the opposite direction to turn them off. My biggest triumph was defintely getting the code to work somewhat Now, I mostly have control over the robot as compared to before when I didn't. Also, adding the right finger without breaking it was a major success. I learned about C++ and Arduinos a lot, and I know some basic things. I hope to learn a lot more about mechanical engineering in the future in high school and college.
 
 # Second Milestone
 
