@@ -1,11 +1,5 @@
 # 3 Joint Robotic Arm
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
+My BSE project was a 3 joint robotic arm. It has a claw and 3 joint to move in 3 axes and pick things up. It moves using servos. It can be controlled with a controll as well. All of these components are wired into the nanoshield, which is connected to the Arduino Nano. This is the core of the project and tells everything what to do.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
