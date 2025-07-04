@@ -1,5 +1,5 @@
 # 3 Joint Robotic Arm
-My BSE project was a 3 joint robotic arm. It has a claw and 3 joint to move in 3 axes and pick things up. It moves using servos. It can be controlled with a controll as well. All of these components are wired into the nanoshield, which is connected to the Arduino Nano. This is the core of the project and tells everything what to do.
+My BSE project was a 3 joint robotic arm. It has a claw and 3 joints to move in 3 axes and pick things up. It moves using servos. It can be controlled with a controller as well. All of these components are wired into the nanoshield, which is connected to the Arduino Nano. This is the core of the project and tells everything what to do.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -15,7 +15,7 @@ For my final milestone, I decided to change my modification. I was originally go
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TKmikUfqGI?si=DmWbcdOfI9txb8os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-My second milestone was to build the project in it's entirety as well as coding it. I have achieved this goal but not without some tribulations. My code does not really work at all, and it tends to go in random directions. This is definitely a challenge I am still working on solving. At this stage, the robot works via a controller (it doesn't work half the time because of the code). It is all wired in and the physical structure is built. In the future, I will work on fixing the code as well as adding a modification, which I plan to be Bluetooth.
+My second milestone was to build the project in it's entirety as well as coding it. I have achieved this goal, but not without some tribulations. My code does not really work at all, and it tends to go in random directions. This is definitely a challenge I am still working on solving. At this stage, the robot works via a controller (it doesn't work half the time because of the code). It is all wired in and the physical structure is built. In the future, I will work on fixing the code as well as adding a modification, which I plan to be Bluetooth.
 
 # First Milestone
 
